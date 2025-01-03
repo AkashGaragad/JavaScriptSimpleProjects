@@ -1,1 +1,1 @@
-#JAVASCRIPT SIMPLE PROJECTS
+#JavaScriptSimpleProjects
